@@ -1,2 +1,2 @@
 # freelanceWebPage
-First project from web development udemy course.
+First project from Udemy Web Development course.
